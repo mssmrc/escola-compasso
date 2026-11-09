@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "file": "images/inicio/hero.jpg",
+    "alt": "Professora e aluna tocando piano juntas",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "aOLDCqOEFDo",
+      "tq7RtEvezSY"
+    ],
+    "prompt": "Piano teacher and a 9-year-old girl playing a duet on an upright piano, both smiling, sheet music, cozy classroom, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "piano": {
+    "file": "images/cursos/piano.jpg",
+    "alt": "Mãos tocando piano",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": [
+      "LZ3O2Q4Me0Q",
+      "tq7RtEvezSY"
+    ],
+    "prompt": "Close-up of hands of a teenage student playing a piano, teacher's hand pointing at the sheet music, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "violao": {
+    "file": "images/cursos/violao.jpg",
+    "alt": "Professor ensinando violão",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": [
+      "S-vWVfbGr28",
+      "4DAH0YhV3Qg"
+    ],
+    "prompt": "Guitar teacher showing a chord shape to an adult student holding an acoustic guitar, music room with posters, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "guitarra": {
+    "file": "images/cursos/guitarra.jpg",
+    "alt": "Guitarra elétrica",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": [
+      "AQIB4qsI8wI",
+      "2UuhMZEChdc"
+    ],
+    "prompt": "Teenager playing an electric guitar connected to a small amp in a rehearsal room with acoustic foam, energetic mood, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "canto": {
+    "file": "images/cursos/canto.jpg",
+    "alt": "Duas jovens cantando com violão",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": [
+      "lbqfafLy65Y"
+    ],
+    "prompt": "Vocal lesson: young woman singing with a microphone while a teacher plays keyboard, rehearsal room, expressive moment, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "bateria": {
+    "file": "images/cursos/bateria.jpg",
+    "alt": "Instrumentos na sala de ensaio",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": [
+      "MEL-jJnm7RQ"
+    ],
+    "prompt": "Kid playing a drum kit with sticks in a soundproof rehearsal room, teacher nearby counting the beat, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "infantil": {
+    "file": "images/cursos/infantil.jpg",
+    "alt": "Avô ensinando o neto a tocar violão",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": [
+      "vMGezW-1XFE",
+      "UCExWdHYKK4"
+    ],
+    "prompt": "Group music class for children aged 4 to 6 with small percussion instruments, ukuleles and colorful mats, teacher sitting on the floor, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  },
+  "recital": {
+    "file": "images/inicio/recital.jpg",
+    "alt": "Oficina de flauta com adultos",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "Vec8QTHIyu4",
+      "ed1C2dZl7LI"
+    ],
+    "prompt": "End-of-year student recital in a small auditorium, students with violin, guitar and piano on stage, families applauding, warm natural light, small Brazilian music school, candid and joyful, realistic photography, no text, no logos"
+  }
+}

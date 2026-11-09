@@ -1,0 +1,19 @@
+/*
+ * Estilos globais.
+ *  - Tailwind v4 para utilitários (tokens abaixo: bg-canvas, text-stage, etc.).
+ *  - Componentes visuais em styles/base.css e styles/pages.css.
+ *  - Cores em variáveis CSS no :root (styles/base.css). Mude ali para mudar o site todo.
+ */
+@import 'tailwindcss';
+@import './styles/base.css';
+@import './styles/pages.css';
+
+@theme inline {
+  --font-sans: var(--font-body);
+  --font-heading: var(--font-display);
+  --color-canvas: var(--paper);
+  --color-stage: var(--stage);
+  --color-sun: var(--sun);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+}
